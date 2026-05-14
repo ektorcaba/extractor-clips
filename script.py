@@ -8,7 +8,7 @@ import random
 import unicodedata
 
 # Configuración del Cliente
-client = Client(host='http://172.29.96.1:11434')
+client = Client(host='http://127.0.0.1:11434') #Host WSL Example IP: http://172.29.96.1:11434
 
 # --- CONFIGURACIÓN FIJA ---
 MODEL_NAME = "gemma4"  
