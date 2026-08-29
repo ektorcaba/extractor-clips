@@ -1,5 +1,3 @@
-https://youtu.be/_N6cEDpuSpc
-
 Se trata de un extractor de momentos destacados de directos en crudo.
 
 ## Como funciona:
@@ -19,5 +17,3 @@ Se trata de un extractor de momentos destacados de directos en crudo.
 - Ffmpeg: **sudo apt update && sudo apt install ffmpeg**
 - Whisper: **pip install git+https://github.com/openai/whisper.git**
 - Gemma4: **https://ollama.com/download/windows**
-
-Y dale Like y suscríbete! ;)
